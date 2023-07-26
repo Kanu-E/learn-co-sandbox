@@ -7,6 +7,6 @@ source "https://rubygems.org"
 # ```ruby
 # # gem 'cli_project'
 # ```
-gem "openssl", "~> 2.2"
+gem "openssl", "~> 3.0"
 
 gem "pry", "~> 0.13.1"
